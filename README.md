@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first book on NFTs: [NFT Basics!][book0001]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -79,7 +79,7 @@
 </details>
 
 [website]: https://vofolo.in
-[course]: http://vsCodeHero.com
+[book0001]: http://vofolo.in/nftbasics
 [twitter]: https://twitter.com/ankurvatsa
 [youtube]: https://youtube.com/ankur.vatsa
 [instagram]: https://instagram.com/ankurvatsa
