@@ -15,17 +15,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Install dependencies
-        run: npm install gautamkrishnar/blog-post-workflow@v1
       - name: Pull latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://thethlog.blogspot.com/feeds/posts/default"
-      - name: Update README
-        run: |
-          # Generate README with latest blog posts
-          # Replace README with the generated file
-      - name: Commit changes
-        run: |
-          # Commit changes to README
-          # Push changes to remote repository
+          max_post_count: 5
