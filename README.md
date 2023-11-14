@@ -1,6 +1,6 @@
 ### Hi there, I'm Ankur - aka [vatsaaa][website] 👋 
 
-[![Website](https://img.shields.io/website?label=vofolo.in&style=for-the-badge&url=https%3A%2F%2Fvofolo.in)](https://vofolo.in)
+#### [![Website](https://img.shields.io/website?label=vofolo.in&style=for-the-badge&url=https%3A%2F%2Fvofolo.in)](https://vofolo.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ankurvatsa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ankurvatsa)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="vofolo.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+#### [<img align="left" alt="vofolo.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="vatsaaa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ankurvatsa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ankurvatsa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -64,7 +64,7 @@
 - [AI Opportunities in 2023 - Lecture by Dr. Andrew Ng](https://thethlog.blogspot.com/2023/10/ai-opportunities-in-2023-lecture-by-dr.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://vofolo.in)
+#### ➡️ [more blog posts...](https://vofolo.in)
 
 ---
 
@@ -83,8 +83,8 @@
 
 </details>
 
-[website]: https://vofolo.in
-[book0001]: http://vofolo.in/nftbasics
+#### [website]: https://vofolo.in
+#### [book0001]: http://vofolo.in/nftbasics
 [twitter]: https://twitter.com/ankurvatsa
 [youtube]: https://youtube.com/ankur.vatsa
 [instagram]: https://instagram.com/ankurvatsa
