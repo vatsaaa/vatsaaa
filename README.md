@@ -57,6 +57,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making Obsidian Really Work](https://thethlog.blogspot.com/2023/11/making-obsidian-really-work.html)
+- [Managing Technical Debt](https://thethlog.blogspot.com/2023/11/technical-debt.html)
+- [Scratching the OLAP surface](https://thethlog.blogspot.com/2023/10/understanding-olap.html)
+- [Streaming Databases](https://thethlog.blogspot.com/2023/10/streaming-databases.html)
+- [AI Opportunities in 2023 - Lecture by Dr. Andrew Ng](https://thethlog.blogspot.com/2023/10/ai-opportunities-in-2023-lecture-by-dr.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://vofolo.in)
