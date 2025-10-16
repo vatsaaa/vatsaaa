@@ -64,7 +64,7 @@
 - [AI Opportunities in 2023 - Lecture by Dr. Andrew Ng](https://thethlog.blogspot.com/2023/10/ai-opportunities-in-2023-lecture-by-dr.html)
 <!-- BLOG-POST-LIST:END -->
 
-<!--- ➡️ [more blog posts...](https://vofolo.in) --->
+➡️ [more blog posts...](https://medium.com/@ankur.vatsa)
 
 ---
 
@@ -83,8 +83,8 @@
 
 </details>
 
-<!--- [website]: https://vofolo.in --->
-<!--- [book0001]: http://vofolo.in/nftbasics --->
+[website]: https://vofolo.in
+[book0001]: http://vofolo.in/nftbasics
 [twitter]: https://twitter.com/ankurvatsa
 [youtube]: https://youtube.com/ankur.vatsa
 [instagram]: https://instagram.com/ankurvatsa
