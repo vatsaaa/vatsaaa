@@ -57,11 +57,12 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Obsidian Really Work](https://thethlog.blogspot.com/2023/11/making-obsidian-really-work.html)
-- [Managing Technical Debt](https://thethlog.blogspot.com/2023/11/technical-debt.html)
-- [Scratching the OLAP surface](https://thethlog.blogspot.com/2023/10/understanding-olap.html)
-- [Streaming Databases](https://thethlog.blogspot.com/2023/10/streaming-databases.html)
-- [AI Opportunities in 2023 - Lecture by Dr. Andrew Ng](https://thethlog.blogspot.com/2023/10/ai-opportunities-in-2023-lecture-by-dr.html)
+- [Model Fusion: The New Frontier in working with AI model paradigms](https://medium.com/@ankur.vatsa/model-fusion-the-new-frontier-in-ai-capability-8ff67b5e096c?source=rss-8c4d12ea50da------2)
+- [A Playbook for Strategic Selection of AI Models](https://medium.com/@ankur.vatsa/the-strategic-playbook-for-selecting-ai-models-ade55829218c?source=rss-8c4d12ea50da------2)
+- [The Landscape of Specialized AI Model Paradigms](https://medium.com/@ankur.vatsa/the-landscape-of-specialized-ai-models-27030e6ff177?source=rss-8c4d12ea50da------2)
+- [Prompt Orchestration Markup Language &lpar;POML&rpar; Enhancement Proposals](https://medium.com/@ankur.vatsa/prompt-orchestration-markup-language-poml-enhancement-proposals-711a59bd9bc9?source=rss-8c4d12ea50da------2)
+- [Prompt Orchestration Markup
+Language: Structure, Best Practices, and Future Development Suggestions](https://medium.com/@ankur.vatsa/prompt-orchestration-markup-language-structure-best-practices-and-future-development-suggestions-24a27b159143?source=rss-8c4d12ea50da------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@ankur.vatsa)
