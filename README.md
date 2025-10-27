@@ -57,12 +57,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fundamental reasons for hallucinations in LLMs](https://medium.com/@ankur.vatsa/fundamental-reasons-for-hallucinations-in-llms-f6dd7e7607cb?source=rss-8c4d12ea50da------2)
 - [Model Fusion: The New Frontier in working with AI model paradigms](https://medium.com/@ankur.vatsa/model-fusion-the-new-frontier-in-ai-capability-8ff67b5e096c?source=rss-8c4d12ea50da------2)
 - [A Playbook for Strategic Selection of AI Models](https://medium.com/@ankur.vatsa/the-strategic-playbook-for-selecting-ai-models-ade55829218c?source=rss-8c4d12ea50da------2)
 - [The Landscape of Specialized AI Model Paradigms](https://medium.com/@ankur.vatsa/the-landscape-of-specialized-ai-models-27030e6ff177?source=rss-8c4d12ea50da------2)
 - [Prompt Orchestration Markup Language &lpar;POML&rpar; Enhancement Proposals](https://medium.com/@ankur.vatsa/prompt-orchestration-markup-language-poml-enhancement-proposals-711a59bd9bc9?source=rss-8c4d12ea50da------2)
-- [Prompt Orchestration Markup
-Language: Structure, Best Practices, and Future Development Suggestions](https://medium.com/@ankur.vatsa/prompt-orchestration-markup-language-structure-best-practices-and-future-development-suggestions-24a27b159143?source=rss-8c4d12ea50da------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@ankur.vatsa)
