@@ -57,11 +57,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Routing Claude Code to NVIDIA-Hosted Kimi K2.6 via LiteLLM Proxy](https://medium.com/@ankur.vatsa/routing-claude-code-to-nvidia-hosted-kimi-k2-6-via-litellm-proxy-749c8b1628f8?source=rss-8c4d12ea50da------2)
 - [From AI-Assisted to Agent-Orchestrated Software Engineering, with Antigravity](https://medium.com/@ankur.vatsa/from-ai-assisted-to-agent-orchestrated-software-engineering-with-antigravity-bf712493d67c?source=rss-8c4d12ea50da------2)
 - [Comparative Analysis of Prompt Languages](https://medium.com/@ankur.vatsa/comparative-analysis-of-prompt-languages-2cd79250c97a?source=rss-8c4d12ea50da------2)
 - [Fundamental reasons for hallucinations in LLMs](https://medium.com/@ankur.vatsa/fundamental-reasons-for-hallucinations-in-llms-f6dd7e7607cb?source=rss-8c4d12ea50da------2)
 - [Model Fusion: The New Frontier in working with AI model paradigms](https://medium.com/@ankur.vatsa/model-fusion-the-new-frontier-in-ai-capability-8ff67b5e096c?source=rss-8c4d12ea50da------2)
-- [A Playbook for Strategic Selection of AI Models](https://medium.com/@ankur.vatsa/the-strategic-playbook-for-selecting-ai-models-ade55829218c?source=rss-8c4d12ea50da------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@ankur.vatsa)
