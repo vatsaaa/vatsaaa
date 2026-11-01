@@ -58,10 +58,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Claude Code on Kimi K3 via NVIDIA NIM and a Local LiteLLM Proxy](https://medium.com/@ankur.vatsa/claude-code-on-kimi-k3-via-nvidia-nim-and-a-local-litellm-proxy-a38547e9f227?source=rss-8c4d12ea50da------2)
+- [Draft story for back dating](https://medium.com/@ankur.vatsa/draft-story-for-back-dating-2611dc090c63?source=rss-8c4d12ea50da------2)
 - [Agent Handoff Pattern: Controlling LLM Context Drift with Hard State Checkpoints](https://medium.com/@ankur.vatsa/agent-handoff-pattern-controlling-llm-context-drift-with-hard-state-checkpoints-b3d56326630a?source=rss-8c4d12ea50da------2)
 - [Routing Claude Code to NVIDIA-Hosted Kimi K2.6 via LiteLLM Proxy](https://medium.com/@ankur.vatsa/routing-claude-code-to-nvidia-hosted-kimi-k2-6-via-litellm-proxy-749c8b1628f8?source=rss-8c4d12ea50da------2)
 - [From AI-Assisted to Agent-Orchestrated Software Engineering, with Antigravity](https://medium.com/@ankur.vatsa/from-ai-assisted-to-agent-orchestrated-software-engineering-with-antigravity-bf712493d67c?source=rss-8c4d12ea50da------2)
-- [Comparative Analysis of Prompt Languages](https://medium.com/@ankur.vatsa/comparative-analysis-of-prompt-languages-2cd79250c97a?source=rss-8c4d12ea50da------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@ankur.vatsa)
